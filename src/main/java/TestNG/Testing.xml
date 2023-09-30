@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="My Test Suite">
+    <test name="TestNG">
+      
+        <classes>
+            <class name="com.example.dependonmethod" />
+            <class name="com.example.Grouping" />
+            <class name="com.example.invocationcounttest" />
+            <class name="com.example.testngsimplecode" />
+      
+        </classes>
+    </test>
+   
+</suite>

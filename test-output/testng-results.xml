@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-15T10:18:01 PKT" name="Default suite" finished-at="2023-06-15T10:18:25 PKT" duration-ms="23764">
+    <groups>
+    </groups>
+    <test started-at="2023-06-15T10:18:01 PKT" name="Default test" finished-at="2023-06-15T10:18:25 PKT" duration-ms="23764">
+      <class name="AutomateEdureka.AutomateImmoprofile">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:AutomateEdureka.AutomateImmoprofile@23348b5d]" started-at="2023-06-15T10:18:01 PKT" name="setUp" finished-at="2023-06-15T10:18:09 PKT" duration-ms="7143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testImmoProfileUpdate()[pri:0, instance:AutomateEdureka.AutomateImmoprofile@23348b5d]" started-at="2023-06-15T10:18:09 PKT" name="testImmoProfileUpdate" finished-at="2023-06-15T10:18:25 PKT" duration-ms="16555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testImmoProfileUpdate -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:AutomateEdureka.AutomateImmoprofile@23348b5d]" started-at="2023-06-15T10:18:25 PKT" name="tearDown" finished-at="2023-06-15T10:18:25 PKT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- AutomateEdureka.AutomateImmoprofile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
